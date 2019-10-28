@@ -1,0 +1,8 @@
+[user]
+    email = no-reply@mattcanty.com
+
+
+[url "git@startup_io.github.com:StartupIO"]
+
+	insteadOf = git@github.com:StartupIO
+	insteadOf = https://github.com/StartupIO

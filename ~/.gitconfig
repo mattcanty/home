@@ -1,0 +1,15 @@
+[alias]
+        s = status
+
+[user]
+	name = Matt Canty
+
+
+[includeIf "gitdir:~/projects/startup_io/"]
+
+    path = ~/projects/startup_io/.gitconfig
+
+
+[includeIf "gitdir:~/projects/mattcanty/"]
+
+    path = ~/projects/mattcanty/.gitconfig
